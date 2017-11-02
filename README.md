@@ -1,2 +1,2 @@
-# carlos_portfolio
-This is my professional portfolio
+# Carlos' Portfolio
+This is my professional portfolio, it uses AWS and ReactJS.

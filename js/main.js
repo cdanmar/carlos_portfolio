@@ -8,6 +8,7 @@ const myWork = [
     'image': {
       'desc': "Lamnda Symbol",
       'src': "images/AWS-Lambda.png",
+      'className' : "section__lambdaImage",
       'comment': ""
     }
   },
@@ -16,6 +17,7 @@ const myWork = [
     'image': {
       'desc': "Coffee Beans",
       'src': "images/volcancoffee1.jpg",
+      'className' : "section__exampleImage",
       'comment': ""
     }
   },
@@ -24,6 +26,7 @@ const myWork = [
     'image': {
       'desc': "placeholder image",
       'src': "images/example3.png",
+      'className' : "section__exampleImage",
       'comment': ""
     }
   },
@@ -32,6 +35,7 @@ const myWork = [
     'image': {
       'desc': "placeholder image",
       'src': "images/example3.png",
+      'className' : "section__exampleImage",
       'comment': ""
     }
   }

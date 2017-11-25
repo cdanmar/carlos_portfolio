@@ -23,7 +23,7 @@ class ExampleWorkBubble extends React.Component {
       <div className="section__exampleWrapper">
         <div className="section__example">
           <img alt={ this.props.example.image.desc }
-               className="section__lambdaImage"
+               className={ example.image.className}
                src={ example.image.src}/>
           <dl className="color--cloud">
             <dt className="section__exampleTitle section__text--centered">
